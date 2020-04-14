@@ -5,12 +5,12 @@
 PeopleOcclusion with openFrameworks.
 
 <div align="center">
-<img src="img/img00.png" alt="" width=25% height=25% align="left">
-<img src="img/img01.png" alt="" width=25% height=25% align="left">
-<img src="img/img02.png" alt="" width=25% height=25% align="left">
-<img src="img/img03.png" alt="" width=25% height=25% align="left">
+<img src="img/img00.png" alt="" width=15% height=15% align="left">
+<img src="img/img01.png" alt="" width=15% height=15% align="left">
+<img src="img/img02.png" alt="" width=15% height=15% align="left">
+<img src="img/img03.png" alt="" width=15% height=15% align="left">
 </div>
-
+<br clear="left">
 
 
 
