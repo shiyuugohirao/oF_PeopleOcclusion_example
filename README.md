@@ -26,4 +26,17 @@ PeopleOcclusion with openFrameworks.
 
 ### how to
 
-coming soon.(Japanese)
+- General > DeploymentInfo > Target  iOS13 +
+
+- Signing&Capabilities
+
+- add `Privacy - Camera Usage Description` in `ofxiOS-Info.plist` 
+
+- addons>ofxARKit>src>lib>Shaders.metal   change Type to `MetalShaderSource` and check `TargetMembership`
+
+  
+
+  more... coming soon.(Japanese)
+
+
+
