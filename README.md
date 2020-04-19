@@ -34,9 +34,8 @@ PeopleOcclusion with openFrameworks.
 
 - addons>ofxARKit>src>lib>Shaders.metal   change Type to `MetalShaderSource` and check `TargetMembership`
 
-  
 
-  more... coming soon.(Japanese)
 
+簡単に記事を書きました。 → [oF_ofxARKitでPeopleOcclusion](https://shugohirao.com/blog/705)
 
 
